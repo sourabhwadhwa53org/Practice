@@ -1,2 +1,4 @@
 # Practice
-Repository to keep all the practice projects in
+Repository to keep all the practice projects in.
+
+Testing commit.
